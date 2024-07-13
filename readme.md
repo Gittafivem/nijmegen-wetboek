@@ -1,4 +1,4 @@
-# Wet en regelgeving Groningen Roleplay
+# Wet en regelgeving Nijmegen Roleplay
 
 ## Development
 
@@ -13,23 +13,20 @@ source .venv/bin/activate
 
 `git fetch origin pull/$ID/head:$BRANCHNAME`
 
-
 ## format release
 
 ```md
-
 **Aanpassingen Week X**
 
 **APV**
 
-* Geen aanpassingen
+- Geen aanpassingen
 
 **Wetboek**
 
-* Geen aanpassingen
+- Geen aanpassingen
 
 **Overig**
 
-* Geen aanpassingen
-
+- Geen aanpassingen
 ```
