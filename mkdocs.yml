@@ -1,6 +1,6 @@
 # Project information
 site_name: Nijmegen Roleplay wet en regelgeving
-site_url: "https://wetboek.groningenroleplay.com/"
+site_url: "https://wetboek.nijmegenroleplay.com/"
 site_description: "Wet en regelgeving van Nijmegen Roleplay roleplay"
 site_author: "Nijmegen Roleplay"
 
@@ -8,11 +8,11 @@ site_author: "Nijmegen Roleplay"
 copyright: Copyright &copy; 2019 - 2022 Nijmegen Roleplay
 
 # Repository
-repo_url: "https://github.com/groningen-rp/wet-en-regelgeving/"
-repo_name: "groningen-rp/wetboek"
+repo_url: "https://github.com/Gittafivem/nijmegen-wetboek"
+repo_name: "Gittafivem/nijmegen-wetboek"
 edit_uri: "edit/pre-release/docs/"
 
-google_analytics: ["UA-167800475-3", "wetboek.groningenroleplay.com"]
+google_analytics: ["UA-167800475-3", "wetboek.nijmegenroleplay.com"]
 
 # Congiguration
 theme:
